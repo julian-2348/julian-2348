@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.pragma.com.co/hubfs/blog/caracteristicas_nube.jpg#keepProtocol" alt="Icono" width="50" height="50" /> 
+  <img src="https://www.pragma.com.co/hubfs/blog/caracteristicas_nube.jpg#keepProtocol" alt="Icono" width="100%" height="50" /> 
   ¡Hola! 👋 Soy Julian David Murillo Rodriguez
 </h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas 💻 | Apasionado por la tecnología, el desarrollo backend y la nube ☁</h3>
