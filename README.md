@@ -45,7 +45,7 @@
 
 ### 📫 ¿Dónde encontrarme?
 
-- [LinkedIn](https://www.linkedin.com/in/TU_USUARIO)  
+- [LinkedIn](https://www.linkedin.com/in/julian-david-murillo-rodriguez-6b486a33b/)  
 - Email: julianmurillo2348@gmail.com
 
 ---
