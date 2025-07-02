@@ -46,7 +46,7 @@
 ### 📫 ¿Dónde encontrarme?
 
 - [LinkedIn](https://www.linkedin.com/in/TU_USUARIO)  
-- Email: tu.email@ejemplo.com
+- Email: julianmurillo2348@gmail.com
 
 ---
 
