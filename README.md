@@ -1,18 +1,21 @@
-<h1 align="center">¡Hola! 👋 Soy Julian David Murillo Rodriguez</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas 💻 | Apasionado por la tecnología, el desarrollo backend y la nube ☁️</h3>
+<h1 align="center">
+  <img src="https://www.pragma.com.co/hubfs/blog/caracteristicas_nube.jpg#keepProtocol" alt="Icono" width="50" height="50" /> 
+  ¡Hola! 👋 Soy Julian David Murillo Rodriguez
+</h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas 💻 | Apasionado por la tecnología, el desarrollo backend y la nube ☁</h3>
 
 ---
 
 ### 🚀 Sobre mí
 
-🎓 Estudiante de **Ingeniería de Sistemas**  
+🎓 Estudiante de *Ingeniería de Sistemas*  
 💡 Me interesa el desarrollo backend, arquitecturas escalables y servicios en la nube  
-🌱 Actualmente estoy aprendiendo más sobre **Spring Boot**, **AWS** y **DevOps**  
-⚙️ Me gusta resolver problemas con código limpio y buenas prácticas
+🌱 Actualmente estoy aprendiendo más sobre *Spring Boot, **AWS* y *DevOps*  
+⚙ Me gusta resolver problemas con código limpio y buenas prácticas
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠 Tecnologías y herramientas
 
 #### Lenguajes de programación
 
@@ -50,4 +53,5 @@
 
 ---
 
-✨ _Gracias por visitar mi perfil. ¡Estoy en constante aprendizaje y abierto a colaborar en proyectos interesantes!_ 🚀
+✨ Gracias por visitar mi perfil. ¡Estoy en constante aprendizaje y abierto a colaborar en proyectos interesantes! 🚀
+
